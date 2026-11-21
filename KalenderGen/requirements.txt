@@ -1,0 +1,4 @@
+dearpygui>=1.11
+reportlab>=4.0
+Pillow>=10.1
+numpy>=1.24
